@@ -1,0 +1,36 @@
+
+.app-container {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 20px;
+  background: black;
+  min-height: 100vh;
+}
+.form-class {
+  width: 250px;
+  margin: auto;
+}
+input,.submit-button {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.submit-button {
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.card-display {
+  margin-top: 20px;
+}
+.formcard {
+  background: white;
+  padding: 10px;
+  border: 1px solid #140f0f;
+  border-radius: 5px;
+  margin: 5px auto;
+  width: 250px;
+}
